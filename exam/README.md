@@ -8,7 +8,7 @@
 
 ``` bash
 # 安装yarn
-npm install yarn -g
+
 
 # 查看是否安装成功
 yarn -v
